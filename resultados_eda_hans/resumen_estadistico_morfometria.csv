@@ -1,0 +1,7 @@
+﻿,,ancho,ancho,ancho,ancho,ancho,alto,alto,alto,alto,alto,aspecto,aspecto,aspecto,aspecto,aspecto,kb,kb,kb,kb,kb
+,,min,median,mean,std,max,min,median,mean,std,max,min,median,mean,std,max,min,median,mean,std,max
+split_origen,clase,,,,,,,,,,,,,,,,,,,,
+test,freshbanana,174,522.0,509.5,138.12,862,128,392.0,379.31,71.68,496,0.5,1.38,1.36,0.32,2.62,18.37,108.98,122.54,63.72,386.09
+test,rottenbanana,188,546.0,514.31,133.43,796,190,384.0,375.28,54.26,500,0.5,1.43,1.38,0.32,2.21,27.46,159.28,169.44,76.6,505.08
+train,freshbanana,174,534.0,509.6,138.17,862,128,390.0,378.54,74.02,496,0.5,1.37,1.36,0.32,2.62,13.79,103.46,120.59,66.83,420.99
+train,rottenbanana,188,529.0,511.85,130.67,796,190,382.0,375.01,54.4,518,0.5,1.42,1.37,0.32,2.21,24.99,152.17,164.04,74.96,599.58
